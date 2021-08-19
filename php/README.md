@@ -1,3 +1,3 @@
 # PHP
 
-Some helpful examples for learning PHP!
+Some helpful exercises for learning PHP 🐘!
