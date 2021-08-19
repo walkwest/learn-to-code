@@ -1,4 +1,4 @@
-# JQuery
+# jQuery
 
 1. Target a selector on your page
 
